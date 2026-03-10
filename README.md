@@ -1,12 +1,3 @@
-
-
-
-i want a readme file for my profile and it should be ai engineered focus  and it should look more professional include tech badges, github stats, ai animation ,
-
-Here is a professional AI-focused GitHub profile README you can use. It highlights AI engineering, shows tech badges, GitHub stats, and includes animated elements so the profile feels alive instead of static. ✨
-
-You can copy it directly into your README.md in your profile repository.
-
 <h1 align="center">Hi 👋, I'm Sakshi Mishra</h1>
 <h3 align="center">AI Engineer | Machine Learning Enthusiast | Building Intelligent Systems</h3>
 
