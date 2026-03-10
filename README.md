@@ -112,11 +112,7 @@
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
-LLM / RAG architecture diagram
 
-futuristic UI style
-
-It will make your GitHub profile look like a top AI engineer profile. 🚀
 
 
 
