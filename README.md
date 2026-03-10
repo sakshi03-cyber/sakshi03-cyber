@@ -111,32 +111,6 @@
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
-⭐ What This README Includes
-✔ Professional AI engineer introduction
-✔ Tech stack badges
-✔ GitHub stats dashboard
-✔ Language stats
-✔ Animated typing banner
-✔ Contribution snake animation
-✔ Clean professional layout
-
-💡 Pro tip:
-Replace:
-
-YOUR_GITHUB_USERNAME
-YOUR_LINKEDIN
-YOUR_EMAIL
-with your actual details.
-
-If you want, I can also create a 🔥 next-level AI engineer README with:
-
-AI themed animations
-
-3D contribution graph
-
-dynamic visitor counter
-
-project cards
 
 LLM / RAG architecture diagram
 
