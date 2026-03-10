@@ -66,14 +66,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🤖 AI Projects
 
 - 🔹 **Advanced RAG System**
